@@ -1,0 +1,10 @@
+Questions 1:
+
+Create an API using HTTP Module
+The dataset is an array of objects and not a different file and each object in the array has the
+following properties {id, name, age, planet, weapons}
+The API should have a create, update, delete and fetch superheroes features
+Make sure all request methods are correct
+Test your API using the Insomnia API
+Note: You don't have to perform any file reading writing operations in this assignment the data
+should be just above all your functions
